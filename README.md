@@ -5,6 +5,6 @@ The OOP Application of ther GUI app in the previous repository.
 Print("Built with python")
 ```
 
-> Please kindly star the repo
+> Please kindly star this repo
 
 Thanks you!
